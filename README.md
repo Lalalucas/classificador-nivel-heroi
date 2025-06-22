@@ -42,4 +42,4 @@ Este projeto foi criado para consolidar conhecimentos em programação básica, 
 - GitHub
 
 ## Autor
-Lucas Escobar Morais - [Perfil no GitHub](https://github.com/Lalalucas)
+Lucas -, Morais - [Perfil no GitHub](https://github.com/Lalalucas)
